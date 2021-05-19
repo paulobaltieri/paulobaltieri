@@ -10,6 +10,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 
 
 **Masterizando:** 
+
 ![alt text](https://img.icons8.com/color/2x/javascript.png)![alt text](https://img.icons8.com/color/2x/html-5.png)![alt text](https://img.icons8.com/color/2x/css3.png)![alt text](https://img.icons8.com/color/2x/nodejs.png)![alt text](https://img.icons8.com/color/2x/mongodb.png)
 ![alt text](https://img.icons8.com/office/90/react.png)
 
