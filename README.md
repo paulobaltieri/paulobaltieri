@@ -7,6 +7,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 - :star2: Desenvolvedor IOS / Desenvolvedor web
 -  :rocket:  Buscando desafios 
 - :hammer: console.log ('under construction')
+- :hammer: print('under construction')
 
 
 **Masterizando:** 
