@@ -1,7 +1,7 @@
 # Hello world!
 
 Oi!  sou o  **Paulo Baltieri**. 
-Entusiasta em programação   `Swift`, `Javascript`, `NodeJs`  , `React` .
+Entusiasta em programação   `Swift`, `NodeJs`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
 - :star2: Desenvolvedor iOS
