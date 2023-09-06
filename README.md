@@ -4,7 +4,7 @@ Oi!  sou o  **Paulo Baltieri**.
 Entusiasta em programação   `Swift`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
-- :star2: Desenvolvedor iOS
+- :star2: Swift Developer
 -  :rocket:  Buscando desafios 
 - :hammer: print("under construction")
 
