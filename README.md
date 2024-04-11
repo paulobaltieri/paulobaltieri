@@ -12,7 +12,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 **Masterizando:** 
 
 ![alt text](https://img.icons8.com/color/96/000000/swift.png)
-![alt text](https://icons8.com/icon/hGdCwhSHUe6L/python.png))
+![alt text](https://icons8.com/icon/hGdCwhSHUe6L/python)
 
 **Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende**
 
