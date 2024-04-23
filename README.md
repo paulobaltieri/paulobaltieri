@@ -1,6 +1,6 @@
 # Hello world!
 
-Oi!  sou o  **Paulo Baltieri**. 
+Sou  **Paulo Baltieri**. 
 Entusiasta em programação   `Swift`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
