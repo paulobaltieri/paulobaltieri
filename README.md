@@ -21,5 +21,5 @@ Sedento por aprendizado. Apaixonado por tecnologias
 > Dreaming in digital , 
 	Living in   ***real time***  , 
 Thinking in ***binary*** ,
-Talking in ***IP*** ,
-**Welcome to my world**
+Talking in ***IP***  ,
+**Welcome to my world** 
