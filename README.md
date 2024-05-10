@@ -6,7 +6,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 
 - :star2: Swift Developer
 -  :rocket:  Buscando desafios 
-- :hammer: print("under construction")
+- :hammer: print("under construction").
 
 
 **Masterizando:** 
