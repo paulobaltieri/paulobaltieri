@@ -1,7 +1,7 @@
  # Hello world!
 
 Sou  **Paulo Baltieri**. 
-Entusiasta em programação   `Swift`.
+Entusiasta em programação   `Swift` e `Javascript`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
 - :star2: Swift Developer
