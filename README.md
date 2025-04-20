@@ -11,7 +11,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 
 **Masterizando:** 
 
-![React Logo](https://img.icons8.com/color/96/react.png)
+![React Logo](https://img.icons8.com/color/96/react-native.png)
 ![JavaScript Logo](https://img.icons8.com/color/96/javascript--v1.png)
 ![Node.js Logo](https://img.icons8.com/fluency/96/node-js.png)
 
