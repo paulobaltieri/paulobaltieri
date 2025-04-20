@@ -11,7 +11,7 @@ Sedento por aprendizado. Apaixonado por tecnologias
 
 **Masterizando:** 
 
-![alt text](https://img.icons8.com/color/96/swift.png)
+![alt text](https://icons8.com/icons/set/react)
 ![alt text](https://img.icons8.com/color/96/javascript--v1.png)
 ![alt text](https://img.icons8.com/fluency/96/angularjs.png)
 
