@@ -1,12 +1,12 @@
  # Hello world!
 
 Sou  **Paulo Baltieri**. 
-Entusiasta em programação   `Swift` e `Javascript`.
+Entusiasta em programação   `React` e `NodeJs`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
-- :star2: Swift Developer
+- :star2: Web Developer
 -  :rocket:  Buscando desafios 
-- :hammer: print("under construction").
+- :hammer: console.log("under construction").
 
 
 **Masterizando:** 
