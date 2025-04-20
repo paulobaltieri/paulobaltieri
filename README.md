@@ -11,9 +11,9 @@ Sedento por aprendizado. Apaixonado por tecnologias
 
 **Masterizando:** 
 
-![alt text](https://icons8.com/icons/set/react.png)
-![alt text](https://img.icons8.com/color/96/javascript--v1.png)
-![alt text](https://img.icons8.com/fluency/96/angularjs.png)
+![React Logo](https://img.icons8.com/color/96/react.png)
+![JavaScript Logo](https://img.icons8.com/color/96/javascript--v1.png)
+![Node.js Logo](https://img.icons8.com/fluency/96/node-js.png)
 
 **Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende**
 
