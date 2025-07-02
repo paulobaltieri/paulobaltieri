@@ -1,7 +1,7 @@
  # Hello world!
 
 Sou  **Paulo Baltieri**. 
-Entusiasta em programação   `React` e `NodeJs`.
+Entusiasta em programação   `React`, `C#` e `NodeJs`.
 Sedento por aprendizado. Apaixonado por tecnologias 
 
 - :star2: Web Developer
